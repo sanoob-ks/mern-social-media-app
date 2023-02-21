@@ -1,0 +1,6 @@
+[submodule "social-api"]
+	path = social-api
+	url = https://github.com/sanoob-ks/mern-social-media-api.git
+[submodule "social-client"]
+	path = social-client
+	url = https://github.com/sanoob-ks/mern-social-media-client.git
